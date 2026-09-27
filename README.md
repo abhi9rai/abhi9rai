@@ -1,6 +1,5 @@
-cat > /mnt/user-data/outputs/README.md << 'EOF'
-<h1 align="center">Hi 👋, I'm Abhinav</h1>
-<h3 align="center">MERN Stack Developer · Final-Year B.Tech CSE · Future Armed Forces Officer</h3>
+<h1 align="center">Hi 👋, I'm Abhinav Rai</h1>
+<h3 align="center">MERN Stack Developer · Final-Year B.Tech CSE </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Shipping+MERN+projects+one+commit+at+a+time;Training+CNNs+to+read+MRI+scans;Prepping+for+CDS+%26+AFCAT;git+commit+-m+%22still+grinding%22" alt="Typing SVG" />
@@ -8,28 +7,23 @@ cat > /mnt/user-data/outputs/README.md << 'EOF'
 
 ---
 
-🔭 I'm currently building **MERN stack projects** and finishing my final-year CNN-based **Brain Tumor Classification** project
-
-🎖️ I'm also preparing for **CDS II** and **AFCAT 2** — aiming for a commission in the Indian Armed Forces
-
 👨‍💻 All my projects are on [github.com/abhi9rai](https://github.com/abhi9rai)
 
 💬 Ask me about React, Node.js, or Grad-CAM explainability
 
-📫 Reach me at **your-email@example.com**
+📫 Reach me at **abhinavrai9453@gmail.com**
 
-📄 Know more about my work on [LinkedIn](https://www.linkedin.com/)
+📄 Know more about my work on [LinkedIn](https://www.linkedin.com/in/abhi9rai/)
 
-⚡ Fun fact: I can go from `git commit` to CDS mock test in the same evening
+⚡ Fun fact: I’m a CSE student with a little bit of wanderlust.
 
 ```python
 class Me:
     def __init__(self):
-        self.name = "Abhinav"
+        self.name = "Abhinav Rai"
         self.role = "Final-Year CSE Student"
         self.stack = ["React", "Node.js", "Express", "MongoDB"]
-        self.also_chasing = "Indian Armed Forces"
-        self.status = "Building + Preparing"
+        self.status = "Building"
 ```
 
 ### 🛠️ Languages and Tools
@@ -66,12 +60,6 @@ Upload PDFs, ask questions in plain English.
 <tr>
 <td width="50%">
 
-**🧠 Brain Tumor Classification (MRI)**
-CNN transfer learning (ResNet50 / EfficientNetB0) with Grad-CAM explainability + Flask dashboard.
-
-`Python` `TensorFlow` `Flask` `Grad-CAM`
-
-</td>
 <td width="50%">
 
 **➕ More coming soon**
