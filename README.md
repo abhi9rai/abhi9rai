@@ -1,97 +1,84 @@
-<h1 align="center">Hi 👋, I'm Abhinav Rai</h1>
-<h3 align="center">MERN Stack Developer · Final-Year B.Tech CSE </h3>
+# Yooo 👋, I'm Abhinav Rai!
+
+**Final-Year CSE Student | MERN Stack Developer**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Shipping+MERN+projects+one+commit+at+a+time;Training+CNNs+to+read+MRI+scans;Prepping+for+CDS+%26+AFCAT;git+commit+-m+%22still+grinding%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+MERN+projects+%F0%9F%9A%80;Sharpening+DSA+with+Java+%F0%9F%A7%A0;Exploring+AI+%26+RAG+%F0%9F%A4%96;Turning+ideas+into+actual+projects;Still+debugging+my+own+code+%F0%9F%98%AD" alt="Typing SVG" />
+</p>
+
+## About me
+
+* Full-stack developer building web applications with **React, Node.js, Express, and MongoDB**.
+* Currently sharpening my **DSA skills with Java**.
+* I like turning random ideas into actual projects.
+* Outside of code, I'm into **photography, editing, travelling, and mountains**.
+
+> ⚡ Fun fact: I write code for a living and collect mountain views for free.
+
+## Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,javascript,python,html,css,react,nodejs,express,mongodb,mysql,tensorflow,git,github,vscode,npm,postman,vercel&perline=9" />
+  </a>
+</p>
+
+## Things I've Built
+
+### 🩺 MedKart — Pharmacy Management System
+
+A full-stack **MERN pharmacy management application**.
+
+**React · Node.js · Express · MongoDB**
+
+[GitHub](https://github.com/abhi9rai/MedKart-Pharmacy-Management-System) • [Live Demo](https://medkart-online-pharmacy-management.vercel.app/)
+
+### 📚 PrepSense — RAG Study Assistant
+
+Upload PDFs and ask questions about them using **natural language and RAG**.
+
+**Node.js · Express · RAG · LLM**
+
+[GitHub](https://github.com/abhi9rai/prepsense) • [Live Demo](https://prepsense-9lsz.onrender.com/)
+
+## Currently Learning
+
+`DSA with Java` · `Advanced MERN` · `AI / RAG / LLMs`
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=abhi9rai&theme=tokyonight&hide_border=true" />
+</p>
+
+## 👀 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhi9rai&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+## Get in touch
+
+<p align="center">
+
+<a href="https://github.com/abhi9rai">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/abhi9rai/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:abhinavrai9453@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
 
 ---
 
-👨‍💻 All my projects are on [github.com/abhi9rai](https://github.com/abhi9rai)
-
-💬 Ask me about React, Node.js, or Grad-CAM explainability
-
-📫 Reach me at **abhinavrai9453@gmail.com**
-
-📄 Know more about my work on [LinkedIn](https://www.linkedin.com/in/abhi9rai/)
-
-⚡ Fun fact: I’m a CSE student with a little bit of wanderlust.
-
-```python
-class Me:
-    def __init__(self):
-        self.name = "Abhinav Rai"
-        self.role = "Final-Year CSE Student"
-        self.stack = ["React", "Node.js", "Express", "MongoDB"]
-        self.status = "Building"
-```
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,git,github,vscode,python,flask,tensorflow" />
-</p>
-
----
-
-### 📌 Pinned Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**🩺 [MedKart – Pharmacy Management System](https://github.com/abhi9rai/MedKart-Pharmacy-Management-System)**
-Full-stack MERN pharmacy management app.
-🔗 [Live Demo](https://medkart-online-pharmacy-management.vercel.app/)
-
-`React` `Node.js` `Express` `MongoDB`
-
-</td>
-<td width="50%">
-
-**📚 [PrepSense – RAG Study Assistant](https://github.com/abhi9rai/prepsense)**
-Upload PDFs, ask questions in plain English.
-🔗 [Live Demo](https://prepsense-9lsz.onrender.com/)
-
-`Node.js` `Express` `RAG` `LLM`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<td width="50%">
-
-**➕ More coming soon**
-Currently sharpening DSA in Java and exploring new MERN builds.
-
-</td>
-</tr>
-</table>
-
----
-
-### 📊 GitHub Stats & Activity
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhi9rai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9rai&layout=compact&theme=tokyonight&hide_border=true" />
+
+`while(alive) { keepBuilding(); }`
+
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi9rai&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi9rai&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhi9rai&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-<p align="center"><i>⭐️ Open to collaborating on MERN or ML projects — feel free to reach out!</i></p>
-EOF
-echo "done"
