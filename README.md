@@ -6,7 +6,14 @@
 <br><br>
 
 <h3><code>abhinav@github ~ $ whoami</code></h3>
-<img src="./info-card.svg" width="490" />
+<table>
+  <tr>
+    <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" /></td>
+  </tr>
+</table>
+
+Full-stack developer building web apps with React, Node.js, Express and MongoDB.<br>Currently sharpening DSA with Java. ⚡ I write code for a living and collect mountain views for free.
 
 <br>
 
