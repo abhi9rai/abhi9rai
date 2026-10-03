@@ -24,7 +24,7 @@ Outside of code: photography, travelling and mountains.<br>
 
 <br>
 
-<h3><code>abhi9rai@github ~ tech-stack</code></h3>
+<h3><code>abhi9rai@github ~ $ cat tech-stack.txt</code></h3>
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -39,7 +39,7 @@ Outside of code: photography, travelling and mountains.<br>
 
 <br><br>
 
-<h3><code>abhinav@github ~ $ ls projects/</code></h3>
+<h3><code>abhi9rai@github projects/</code></h3>
 
 **🩺 MedKart: Pharmacy Management System**<br>
 A full-stack MERN pharmacy management application.<br>
@@ -55,13 +55,13 @@ Upload PDFs and ask questions about them in natural language using RAG.<br>
 
 <br>
 
-<h3><code>abhinav@github ~ $ ./learning.sh</code></h3>
+<h3><code>abhi9rai@github ~ $ learning</code></h3>
 
 **DSA with Java** · **Advanced MERN** 
 
 <br>
 
-<h3><code>abhi9rai@github ~ $ ./contact.sh</code></h3>
+<h3><code>abhi9rai@github ~ contact</code></h3>
 
 <a href="https://www.linkedin.com/in/abhi9rai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:abhinavrai9453@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
