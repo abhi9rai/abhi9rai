@@ -44,14 +44,14 @@ Outside of code: photography, travelling and mountains.<br>
 **🩺 MedKart: Pharmacy Management System**<br>
 A full-stack MERN pharmacy management application.<br>
 `React` · `Node.js` · `Express` · `MongoDB`<br>
-[GitHub](https://github.com/abhi9rai) • [Live Demo](#)
+[GitHub](https://github.com/abhi9rai/MedKart-Pharmacy-Management-System) • [Live Demo](https://medkart-online-pharmacy-management.vercel.app/)
 
 <br>
 
 **📚 PrepSense: RAG Study Assistant**<br>
 Upload PDFs and ask questions about them in natural language using RAG.<br>
 `Node.js` · `Express` · `RAG` · `LLM`<br>
-[GitHub](https://github.com/abhi9rai) • [Live Demo](#)
+[GitHub](https://github.com/abhi9rai/prepsense) • [Live Demo](https://prepsense-9lsz.onrender.com/)
 
 <br>
 
