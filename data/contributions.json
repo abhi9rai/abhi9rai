@@ -2,41 +2,6 @@
  "user": "abhi9rai",
  "days": [
   {
-   "date": "2025-10-05",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-06",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-07",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-08",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-09",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-10",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-11",
-   "level": 0,
-   "count": 0
-  },
-  {
    "date": "2025-10-12",
    "level": 0,
    "count": 0
@@ -1363,12 +1328,12 @@
   },
   {
    "date": "2026-07-04",
-   "level": 2,
+   "level": 1,
    "count": 15
   },
   {
    "date": "2026-07-05",
-   "level": 2,
+   "level": 1,
    "count": 13
   },
   {
@@ -1383,7 +1348,7 @@
   },
   {
    "date": "2026-07-08",
-   "level": 2,
+   "level": 1,
    "count": 14
   },
   {
@@ -1788,7 +1753,7 @@
   },
   {
    "date": "2026-09-27",
-   "level": 4,
+   "level": 3,
    "count": 39
   },
   {
@@ -1823,7 +1788,7 @@
   },
   {
    "date": "2026-10-04",
-   "level": 4,
+   "level": 3,
    "count": 39
   },
   {
@@ -1838,7 +1803,7 @@
   },
   {
    "date": "2026-10-07",
-   "level": 4,
+   "level": 3,
    "count": 42
   },
   {
@@ -1854,15 +1819,20 @@
   {
    "date": "2026-10-10",
    "level": 2,
-   "count": 23
+   "count": 27
+  },
+  {
+   "date": "2026-10-11",
+   "level": 4,
+   "count": 61
   }
  ],
- "total": 560,
- "current_streak": 26,
- "longest_streak": 26,
+ "total": 625,
+ "current_streak": 27,
+ "longest_streak": 27,
  "best_day": {
-  "date": "2026-10-08",
+  "date": "2026-10-11",
   "level": 4,
-  "count": 51
+  "count": 61
  }
 }
