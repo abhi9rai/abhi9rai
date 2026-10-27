@@ -1829,12 +1829,17 @@
   {
    "date": "2026-10-26",
    "level": 1,
-   "count": 11
+   "count": 12
+  },
+  {
+   "date": "2026-10-27",
+   "level": 1,
+   "count": 12
   }
  ],
- "total": 941,
- "current_streak": 42,
- "longest_streak": 42,
+ "total": 954,
+ "current_streak": 43,
+ "longest_streak": 43,
  "best_day": {
   "date": "2026-10-11",
   "level": 4,
