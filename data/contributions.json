@@ -2,41 +2,6 @@
  "user": "abhi9rai",
  "days": [
   {
-   "date": "2025-11-02",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-03",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-04",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-05",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-06",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-07",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-08",
-   "level": 0,
-   "count": 0
-  },
-  {
    "date": "2025-11-09",
    "level": 0,
    "count": 0
@@ -1854,12 +1819,17 @@
   {
    "date": "2026-11-07",
    "level": 1,
+   "count": 5
+  },
+  {
+   "date": "2026-11-08",
+   "level": 1,
    "count": 4
   }
  ],
- "total": 1013,
- "current_streak": 54,
- "longest_streak": 54,
+ "total": 1018,
+ "current_streak": 55,
+ "longest_streak": 55,
  "best_day": {
   "date": "2026-10-11",
   "level": 4,
